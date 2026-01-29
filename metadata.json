@@ -1,0 +1,8 @@
+{
+  "name": "Copy of indorrr",
+  "description": "A robust, professional marketplace sales management system designed to replace Excel-based tracking with a scalable, automated solution.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
